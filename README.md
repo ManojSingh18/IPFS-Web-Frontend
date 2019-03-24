@@ -1,1 +1,1 @@
-<h>IPFS-Web-Frontend</h>
+<h1>IPFS-Web-Frontend</h1>
